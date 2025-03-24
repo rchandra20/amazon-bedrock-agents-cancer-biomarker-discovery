@@ -1,1 +1,1 @@
-agents_catalog/5-Biological-pathways-analyst/reactome_data.zip filter=lfs diff=lfs merge=lfs -text
+**/reactome_data.zip filter=lfs diff=lfs merge=lfs -text
